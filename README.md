@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center;">
   <h3>Hi there! I'm Chea Hang!</h3>
   <hr />
-  <p>I'm a <b>full stack developer</b> from 🇸🇬 Singapore!</p>
+  <p>I'm a <b>Full Stack Software Engineer</b> from Singapore!</p>
   <p>I'm 27, married, have one son and a daughter coming soon!</p>
   <br />
   <h3>Things that I recently used</h3>
@@ -43,4 +43,12 @@
         <img alt="linkedin" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;linkedin-%230077B5.svg?style&#x3D;for-the-badge&amp;logo&#x3D;linkedin&amp;logoColor&#x3D;white"/>
       </a>
   <hr />
+  <br></br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=cheahang-chan&count_private=true&hide=issues&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheahang-chan&layout=compact&theme=dracula" />
+  </a>
 </div>
