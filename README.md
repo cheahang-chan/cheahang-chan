@@ -1,5 +1,5 @@
 <div>
-  ##Hi there! I'm Chea Hang!
+  <h3>Hi there! I'm Chea Hang!</h3>
   <p>I'm a <b>Full Stack Software Engineer</b> from Singapore!</p>
   <br />
   <h3>Things that I recently used</h3>
@@ -27,7 +27,7 @@
 <img align="left" width="36px" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <br />
   <br />
-### Connect with me:
+<H4>Connect with me:</h4>
 
 <a href="mailto:cheahang@outlook.com">
   <img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
