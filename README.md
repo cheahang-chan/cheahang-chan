@@ -25,7 +25,7 @@
   <img align="left" width="36px" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="left" width="36px" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   
-  <br /> <br /> <br /><br />
+  <br /> <br /> <br />
   
   <h3>Connect with me:</h3>
   <a href="mailto:cheahang@outlook.com">
