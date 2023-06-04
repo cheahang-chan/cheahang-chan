@@ -27,7 +27,9 @@
 <img align="left" width="36px" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <br />
   <br />
-<H4>Connect with me:</h4>
+  <br />
+  <br />
+<h4>Connect with me:</h4>
 
 <a href="mailto:cheahang@outlook.com">
   <img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
