@@ -1,4 +1,4 @@
-<div align="center" style="text-align: center;">
+<div>
   <h3>Hi there! I'm Chea Hang!</h3>
   <hr />
   <p>I'm a <b>Full Stack Software Engineer</b> from Singapore!</p>
