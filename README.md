@@ -1,6 +1,5 @@
 <div>
-  <h3>Hi there! I'm Chea Hang!</h3>
-  <hr />
+  ##Hi there! I'm Chea Hang!
   <p>I'm a <b>Full Stack Software Engineer</b> from Singapore!</p>
   <br />
   <h3>Things that I recently used</h3>
@@ -28,11 +27,14 @@
 <img align="left" width="36px" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <br />
   <br />
-  <h3>You can find me at</h3>
-      <a href="https://www.linkedin.com/in/chea-hang-chan-45a98a99/">
-        <img alt="linkedin" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;linkedin-%230077B5.svg?style&#x3D;for-the-badge&amp;logo&#x3D;linkedin&amp;logoColor&#x3D;white"/>
-      </a>
-  <hr />
+### Connect with me:
+
+<a href="mailto:cheahang@outlook.com">
+  <img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/cheahang/">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <br></br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
