@@ -1,5 +1,5 @@
 <div>
-  <h3>Hi there! I'm Chea Hang!</h3>
+  <h2>Hi there! I'm Chea Hang!</h2>
   <p>I'm a <b>Full Stack Software Engineer</b> from Singapore!</p>
   <br />
   <h3>Things that I recently used</h3>
@@ -29,7 +29,7 @@
   <br />
   <br />
   <br />
-<h4>Connect with me:</h4>
+<h3>Connect with me:</h3>
 
 <a href="mailto:cheahang@outlook.com">
   <img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
