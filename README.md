@@ -1,6 +1,7 @@
 <div>
   <h2>Hi there! I'm Chea Hang!</h2>
   <p>I'm a <b>Full Stack Software Engineer</b> from Singapore!</p>
+  <p>I like to build stuff.</p>
   
   <h3>Things that I recently used</h3>
   <img align="left" width="36px" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
